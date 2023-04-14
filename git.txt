@@ -1,0 +1,19 @@
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/JhonnyCamilo/cvG3.git
+git push -u origin master
+
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
+git config --list
+
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/Gzenitram/cvgmm.git
+git push -u origin master
+
+git config --global user.name Gzenitram
+git config --global user.email gmartinezmo24@gmail.com
+git config --list
